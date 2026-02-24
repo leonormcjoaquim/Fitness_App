@@ -1,14 +1,4 @@
-# 🌸 UC-620 — APP Fitness
-
-> Educational project developed for the UC-620 module.  
-> Focused on practicing programming, teamwork, and software design.
-
-![GitHub stars](https://img.shields.io/github/stars/leonormcjoaquim/UC-620---FILOMENA?style=flat-square)
-![GitHub forks](https://img.shields.io/github/forks/leonormcjoaquim/UC-620---FILOMENA?style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/leonormcjoaquim/UC-620---FILOMENA?style=flat-square)
-![GitHub license](https://img.shields.io/github/license/leonormcjoaquim/UC-620---FILOMENA?style=flat-square)
-
----
+# UC-620 — APP Fitness
 
 ## 📖 About
 
@@ -44,14 +34,6 @@ UC-620---FILOMENA/
 
 ---
 
-## 🛠️ Tech Stack
-
-- **Language:** C# / Java / Python *(adjust to your project)*  
-- **Frameworks:** .NET / JavaFX / Tkinter *(if used)*  
-- **Tools:** Git, Visual Studio / IntelliJ / VS Code  
-
----
-
 ## 📸 Screenshots
 
 ![Login](./screenshots/Login.png)
@@ -64,21 +46,21 @@ UC-620---FILOMENA/
 
 ## 🏁 Getting Started
 
-### 1️⃣ Clone the repo
+### Clone the repo
 ```bash
-git clone https://github.com/leonormcjoaquim/UC-620---FILOMENA.git
+git clone https://github.com/leonormcjoaquim/Fitness_App.git
 ```
-### 2️⃣ Open the project
+### Open the project
 ```bash
 Open in your preferred IDE.
 ```
-### 3️⃣ Run
+### Run
 ```bash
 Follow the instructions for your environment.
 ```
 
 ---
 
-# 👤 Authors
+# Authors
 - Leonor M. C. Joaquim – GitHub: [@leonormcjoaquim](https://github.com/leonormcjoaquim)  
 - André Correia – GitHub: [@Brekey53](https://github.com/Brekey53)
